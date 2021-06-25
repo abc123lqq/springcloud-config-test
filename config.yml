@@ -1,4 +1,2 @@
 config:
-    info:"springcloud-config,version=1"
-mytest:
-    file:"test test "
+    info:springcloud-config,version=1
