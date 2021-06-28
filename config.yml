@@ -1,2 +1,2 @@
 config:
-  info:"version1"
+  port: 3355
